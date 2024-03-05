@@ -29,6 +29,7 @@ function App() {
       <img src={image1}></img>
       <Header />
       {/* <Header /> */}
+      <p>This paragraph added....</p>
      
     </div>
   );
